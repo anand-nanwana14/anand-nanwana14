@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anand Nanwana</h1>
 <h3 align="center">A Result-Driven DevOps Engineer from India</h3>
-(img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fdevopedia.org%2Fimages%2Farticle%2F54%2F7602.1513404277.png&tbnid=grfWhoYVj8pc7M&vet=12ahUKEwjIuYvwhaKBAxVE_DgGHYxQCRMQMygAegQIARB0..i&imgrefurl=https%3A%2F%2Fdevopedia.org%2Fdevops&docid=7laGqcbShoEprM&w=1982&h=1020&q=devops%20images&ved=2ahUKEwjIuYvwhaKBAxVE_DgGHYxQCRMQMygAegQIARB0")
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/384914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anand-nanwana14&label=Profile%20views&color=0e75b6&style=flat" alt="anand-nanwana14" /> </p>
 
