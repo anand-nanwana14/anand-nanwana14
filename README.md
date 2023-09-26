@@ -12,8 +12,7 @@
 
 - 📫 How to reach me **anandnanwana84@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1849JW6AW47AyTVJxZ6xyhMsqv4hPbx-V/view?usp=sharing](https://drive.google.com/file/d/1849JW6AW47AyTVJxZ6xyhMsqv4hPbx-V/view?usp=sharing)
-
+- 📄 Know about my experiences [https://shorturl.at/bgstu)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="linkedin.com/in/anand-nanwana-2191841b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anand-nanwana" height="30" width="40" /></a>
