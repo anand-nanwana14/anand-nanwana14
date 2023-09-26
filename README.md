@@ -26,6 +26,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anand-nanwana14&show_icons=true&locale=en&layout=compact" alt="anand-nanwana14" /></p>
 
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anand-nanwana14&" alt="anand-nanwana14" /></p>
