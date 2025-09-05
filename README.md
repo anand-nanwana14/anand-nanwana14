@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anand Nanwana</h1>
-<h3 align="center">A Blockchain DevOps Engineer</h3>
+<h3 align="center">Blockchain DevOps Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anand-nanwana14&label=Profile%20views&color=0e75b6&style=flat" alt="anand-nanwana14" /> </p>
 
