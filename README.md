@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Rancher**
+- 🌱 I’m currently learning **Blockchain - Restaking & AVS**
 
 - 💬 Ask me about **Cloud, Linux, Docker, Kubernetes, Helm, Blockchain, POS, POW, ZKProofs, Validators, RPC Nodes**
 
