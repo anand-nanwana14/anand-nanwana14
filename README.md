@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Blockchain - Restaking & AVS**
 
-- 💬 Ask me about **Cloud, Linux, Docker, Kubernetes, Helm, Blockchain, POS, POW, ZKProofs, Validators, RPC Nodes**
+- 💬 Ask me about **Cloud, Linux, Docker, Kubernetes, Helm, CI/CD, ArgoCD, Blockchain, POS, POW, ZKProofs, Validators, RPC Nodes**
 
 - 📫 How to reach me **anandnanwana84@gmail.com**
 
